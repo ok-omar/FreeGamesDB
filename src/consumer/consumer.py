@@ -3,6 +3,9 @@ import json
 import csv
 import time
 
+# Before executing the script, run the following command in the same folder as this script.
+# pip install -r requirements.txt
+
 # API endpoint for fetching all free games
 games_url = "https://www.freetogame.com/api/games"
 
